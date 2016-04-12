@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 31, 2016, 4:26:23 PM
+    Author     : Winona Wixson 
+*/
+
+#convType{
+    color: #0f0f0f;
+    text-align: left;
+}
+
+#unitTypes{
+    color: #0f0f0f;
+    text-align: left;
+}
+
+#valueDiv{
+    color: #0f0f0f;
+}
