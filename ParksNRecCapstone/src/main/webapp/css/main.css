@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 21, 2016, 11:09:00 AM
+    Author     : Rene Gomez
+*/
+body {
+    font-family: 'Open Sans';
+    color: black;
+    min-height: 100%;
+}
+
+body {
+    background-color: rgb(198,199,160);
+}
+
+.header {
+    width:100%;
+    height:100%;
+    height:350px;
+    background-image: url(../img/glacier.jpg);
+    background-size:cover;
+    color: white;
+}
+
+.header img {
+  width:90%;
+}
+
+.logo {
+    color:white;
+    font-weight:800;
+    font-size: 5em;
+    padding:20px;
+    text-align:center;
+}
+
+.line {
+  padding-top:20px;
+  white-space: nowrap;
+  overflow:hidden;
+  text-align:center;
+}
+
+.welcome {
+    color:black;
+}
+
+.post-label{
+    padding-top: 20px;
+}
+
+.recent-three {
+    color:black;
+}
+
+
+
